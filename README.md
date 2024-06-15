@@ -12,4 +12,5 @@ Features: Play, pause, stop, and control the volume.
 
 Contact
 Email: iuricruzeiro0409@gmail.com
+
 Discord: iurijedi
