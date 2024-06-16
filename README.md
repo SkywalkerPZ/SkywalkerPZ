@@ -4,10 +4,11 @@ Currently Learning Python and C++, wanting to expand my knowledge in other langu
 
 
 Projects in Development
+
 Music Player in Python
-Description: A simple music player application built with Python.
-Technologies: Python, Pygame
-Features: Play, pause, stop, and control the volume.
+
+Password Generator-Fully released
+
 
 
 Contact
